@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aGdjG5bQdvHAbakg4t6IBSHfFQu31HXL5KPgZyzTb/eqJdt7MePf3iIkhqQEv606XKPa2Rap64KmzYLCwrmWIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xDgam\\Desktop\\Intel_8086-main\\ArchitekturaForms\\ArchitekturaForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xDgam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\xDgam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\xDgam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\xDgam\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
